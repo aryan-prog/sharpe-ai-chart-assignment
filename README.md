@@ -19,4 +19,4 @@ Sample data looks like this - [[1660953600,8496],[1661040000,3709]] where first 
 
 ## Live Demo
 
-Experience the live version of the AI-Summarizer at [Live Demo](https://charts-sharpe.netlify.app/).
+Experience the live version of this assignment at [Live Demo](https://charts-sharpe.netlify.app/).
